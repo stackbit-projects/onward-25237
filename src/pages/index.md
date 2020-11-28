@@ -10,7 +10,7 @@ sections:
       ideas.
   - section_id: about
     type: section_content
-    title: About
+    title: 'Sobre '
     content: >-
       Soy Pablo j. Valle. He pintado, compuesto canciones, creado negocios,
       hecho software para computadoras (tanto comercial y de codigo abierto),
