@@ -19,7 +19,7 @@ sections:
       y he sido hijo... asi que, me imagino que estoy "certificado" para contar
       algunas historias.
     actions:
-      - label: Contact Me
+      - label: Tirame unas palabras al correo
         url: /contact
         style: button
   - section_id: recent-posts
