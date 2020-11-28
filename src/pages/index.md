@@ -12,10 +12,12 @@ sections:
     type: section_content
     title: About
     content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
+      Soy Pablo j. Valle. He pintado, compuesto canciones, creado negocios,
+      hecho software para computadoras (tanto comercial y de codigo abierto),
+      alfarero, artesano, MBA, Ingeniero, he hecho dulces, conservas,
+      emparedados, huevos fritos, me he casado, me he divorciado, he sido padre
+      y he sido hijo... asi que, me imagino que estoy "certificado" para contar
+      algunas historias.
     actions:
       - label: Contact Me
         url: /contact
