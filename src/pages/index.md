@@ -23,6 +23,12 @@ sections:
         url: /contacto
         style: button
         new_window: true
+      - label: lorem-ipsum
+        url: lorem-ipsum
+        style: link
+        icon_class: lorem-ipsum
+        new_window: false
+        type: action
   - section_id: recent-posts
     type: section_posts
     title: Recent Posts
