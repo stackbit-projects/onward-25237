@@ -20,7 +20,7 @@ sections:
       algunas historias.
     actions:
       - label: Tirame unas palabras al correo
-        url: /contact
+        url: /contacto
         style: button
   - section_id: recent-posts
     type: section_posts
