@@ -21,7 +21,7 @@ sections:
     actions:
       - label: Tirame unas palabras al correo
         url: /contacto
-        style: button
+        style: icon
   - section_id: recent-posts
     type: section_posts
     title: Recent Posts
