@@ -6,8 +6,8 @@ sections:
     type: section_hero
     title: Hola mundo
     content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+      Algunos articulos/ensayos que he escrito solamente por compartir algunas
+      ideas.
   - section_id: about
     type: section_content
     title: About
