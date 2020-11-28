@@ -28,7 +28,7 @@ sections:
     title: Recientes
     posts_number: 4
     actions:
-      - label: V Blog
+      - label: Ver Blog
         url: blog/index.html
         style: button
 template: advanced
